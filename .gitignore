@@ -1,0 +1,32 @@
+# testing
+cover.prof
+cover.html
+
+# production
+/dist
+
+# editor
+.idea
+.vscode
+*.code-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.user
+*.unityproj
+*.booproj
+ExportedObj/
+*.xcuserstate
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.eslintcache
